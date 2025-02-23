@@ -5,4 +5,4 @@ You need to do few things to run this program
 * if it went fine, type in python manage.py migrate
 * finally run server by python manage.py runserver /
   
-If you have any question please contact to khopki22@charlotte.edu I can answer anything on this code.
+#If you have any question please contact to khopki22@charlotte.edu I can answer anything on this code.
