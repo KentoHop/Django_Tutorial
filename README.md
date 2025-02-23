@@ -1,5 +1,7 @@
-Week 1 totorial screenshots:
-![Screenshot 2025-02-09 at 11 39 06 PM](https://github.com/user-attachments/assets/4d8e629a-a4f2-4824-aed5-3f9bcda7e91c)
-![Screenshot 2025-02-09 at 11 39 15 PM](https://github.com/user-attachments/assets/5eca2f7a-6b09-4b9a-ba04-22b0bdcd8329)
-![Screenshot 2025-02-09 at 11 40 16 PM](https://github.com/user-attachments/assets/827c1400-dbc3-478d-a316-287b1283c7d1)
-![Screenshot 2025-02-09 at 11 40 40 PM](https://github.com/user-attachments/assets/d25e0687-15ec-4121-8c32-c98b6b90ec01)
+##When You Run This Code
+You need to do few things to run this program
+* put current working directory to studybud (outside one)
+* In your terminal you need to type in python manage.py makemigrations
+* if it went fine, type in python manage.py migrate
+* finally run server by python manage.py runserver
+If you have any question please contact to khopki22@charlotte.edu I can answer anything on this code.
